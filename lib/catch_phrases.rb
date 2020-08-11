@@ -1,13 +1,19 @@
+mario_phrase = "It's-a me, Mario!";
+toadstool_phrase
+link_phrase = "It's Dangerous To Go Alone! Take This."
+
 def mario
-  phrase = "It's-a me, Mario!"
-  puts phrase
+  puts mario_phrase
 end
 
 def toadstool
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts status
+  puts toadstool_phrase
 end
 
 def link 
-  phrase = ""
+  
+end
+
+def all_phrases
+
 end
