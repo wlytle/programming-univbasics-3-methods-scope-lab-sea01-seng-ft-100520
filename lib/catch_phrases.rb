@@ -1,7 +1,4 @@
 
-
-
-
 def mario
   mario_phrase = "It's-a me, Mario!";
   puts mario_phrase
